@@ -19,7 +19,7 @@ public class Main {
 		
 		System.out.println("Hello, " + name + ".");
 		System.out.println("You are, " + age + " years old");
-		System.out.println("YOur favorite food is " + food);
+		System.out.println("Your favorite food is " + food);
 		
 		
 	}
